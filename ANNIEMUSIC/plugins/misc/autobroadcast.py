@@ -7,7 +7,7 @@ from ANNIEMUSIC.utils.database import get_served_chats
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
-MESSAGE = f"""*Share your query and problem related to bot at @kittybothub.
+MESSAGE = f"""**Share your query and problem related to bot at @kittybothub.
 
 BUTTON = InlineKeyboardMarkup(
     [
